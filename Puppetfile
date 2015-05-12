@@ -1,3 +1,2 @@
-mod 'hello',
-  git: 'git@github.com:choonming/r10k-demo.git',
-  ref: 'production'
+mod 'nginx',
+  git: 'git@github.com:choonming/puppet-nginx.git',
